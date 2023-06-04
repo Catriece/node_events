@@ -1,0 +1,4 @@
+1. build form in html
+2. access input fields using queryselectors
+3. write fetch that hits same endpoints as postman
+4. Structure data in JSON object same way as in postman
